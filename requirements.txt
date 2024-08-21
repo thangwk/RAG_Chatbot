@@ -197,7 +197,7 @@ stack-data==0.6.3
 starlette==0.37.2
 streamlit==1.37.0
 streamlit-chat==0.1.1
-sqlite3 ==3.35.0
+sqlite3
 sympy==1.13.2
 syncer==2.0.3
 tenacity==8.5.0
