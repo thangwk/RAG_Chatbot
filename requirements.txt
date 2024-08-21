@@ -32,7 +32,6 @@ chroma-hnswlib==0.7.6
 chromadb==0.5.5
 click==8.1.7
 click-option-group==0.5.6
-codeshield @ file:///D:/Python%20Projects/PurpleLlama/CodeShield
 colorama==0.4.6
 coloredlogs==15.0.1
 comm==0.2.2
